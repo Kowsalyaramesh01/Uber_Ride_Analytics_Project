@@ -116,4 +116,4 @@ Uber_Ride_Analytics_Project/
 
 Author
 Kowsalya.R
-Aspiring Data Analyst | Python | SQL | Power BI
+Aspiring Data Analyst | Python | SQL | Power BI | Excel
