@@ -86,7 +86,7 @@ The Power BI dashboard analyzes:
 
 ## 🖼️ Dashboard Preview
 
-![Uber Ride Analytics Dashboard](Images/dashboard.png)
+![Uber Ride Analytics Dashboard](Images/uber_dashboard.png)
 
 ---
 
